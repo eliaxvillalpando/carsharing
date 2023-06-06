@@ -36,10 +36,13 @@ Copy code
 2. Log in as a customer
 3. Create a customer
 0. Exit
+
+
 Selecting 1 will allow you to log in as a manager and perform various operations like viewing the company list, creating a new company, viewing the car list, and creating a new car.
 Selecting 2 will allow you to log in as a customer and perform actions like renting a car, returning a rented car, and viewing the rented car's details.
 Selecting 3 will prompt you to create a new customer.
 Selecting 0 will exit the program.
+
 Contributing
 Please feel free to fork this repository, make changes, and submit pull requests. If you have any questions or ideas about improvements, please open an issue.
 
